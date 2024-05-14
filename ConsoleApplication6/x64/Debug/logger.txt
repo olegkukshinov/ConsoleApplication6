@@ -1,0 +1,5 @@
+Searching books by author: Kukshinov
+Books information has been encrypted and written to file.
+Searching books by author: Kukshinov
+Searching books published after year: 1900
+Books information has been encrypted and written to file.
